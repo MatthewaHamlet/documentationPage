@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=https://github.com/MatthewaHamlet/documentationPage/blob/master/documentationPage/index.html" />
+<meta http-equiv="refresh" content="0; url=https://matthewahamlet.github.io/documentationPage/index.html" />
